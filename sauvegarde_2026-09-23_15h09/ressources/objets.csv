@@ -1,0 +1,21 @@
+nom,type_objet,valeur_stat,valeur_or
+Dague rouillee,arme,3,10
+Epee courte,arme,5,20
+Arc en bois,arme,6,30
+Lance en fer,arme,7,35
+Epee longue,arme,8,40
+Masse cloutee,arme,9,50
+Hache de guerre,arme,10,55
+Marteau de guerre,arme,12,70
+Epee en argent,arme,14,90
+Hallebarde maudite,arme,18,150
+Tunique de cuir,armure,3,15
+Bouclier en bois,armure,4,20
+Armure de plates rouillee,armure,6,40
+Plastron de fer,armure,8,50
+Armure d'ecailles,armure,9,60
+Bouclier en acier,armure,10,65
+Cuirasse renforcee,armure,11,75
+Armure noire ebene,armure,13,85
+Armure du dernier rempart,armure,17,140
+Armure legendaire,armure,20,200

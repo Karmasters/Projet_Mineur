@@ -1,0 +1,63 @@
+etage,piece,texte
+1,1,"Vous sentez une préssion immense perser sur vous"
+1,2,"La pièce est étrangement propre, comme si elle attendait ton arrivée."
+1,3,"Encore essoufflé par le combat, tu remarques une lueur faible au fond de la pièce."
+2,1,"Un escalier de pierre usé descend dans l'obscurité, chaque marche craque sous tes pas."
+2,2,"Des corps gisent au sol, immobiles depuis visiblement un moment déjà."
+2,3,"Le combat t'a laissé des courbatures, mais un détail dans ce nouvel espace attire ton regard."
+3,1,Les marches sont recouvertes d'une fine couche de mousse humide et glissante.
+3,2,"Tout est calme ici, presque trop calme — pas un bruit, pas un mouvement."
+3,3,Tu reprends ton souffle quand un bruit discret attire ton attention dans un coin de la pièce.
+4,1,"Un escalier en colimaçon s'enfonce plus profondément, la lumière du dessus disparaît peu à peu."
+4,2,Des traces de griffures profondes zèbrent les murs de cette salle.
+4,3,"Épuisé, tu aperçois quelque chose briller faiblement sous un tas de gravats."
+5,1,"Des toiles d'araignée tapissent la cage d'escalier, tu les écartes avec précaution."
+5,2,"La pièce est impeccablement rangée, ce qui te met immédiatement mal à l'aise."
+5,3,Le silence qui suit le combat est rompu par un léger mouvement dans l'ombre.
+6,1,L'escalier de pierre est taché de longues traînées sombres qui descendent avec toi.
+6,2,Des ossements sont soigneusement empilés dans un coin de la pièce.
+6,3,"Tu entres, encore tremblant, et remarques une forme inhabituelle contre le mur du fond."
+7,1,"Chaque marche résonne étrangement fort, comme si les murs eux-mêmes t'observaient descendre."
+7,2,"Une lumière blafarde filtre à travers une fissure au plafond, éclairant une pièce vide et silencieuse."
+7,3,Le sang bat encore à tes tempes quand tu distingues un objet posé sur un piédestal.
+8,1,L'air se refroidit sensiblement à mesure que tu descends cet escalier étroit.
+8,2,"Le sol est jonché de dépouilles, certaines encore vêtues d'armures rouillées."
+8,3,"Tu souffles un instant, et c'est alors que tu remarques quelque chose scintiller par terre."
+9,1,"Des gravures anciennes ornent les murs de l'escalier, effacées par le temps."
+9,2,"La pièce sent le renfermé et la poussière, rien n'y a bougé depuis des années."
+9,3,"Encore sonné, tu perçois une silhouette qui semble t'observer depuis un renfoncement."
+10,1,"L'escalier semble avoir été taillé à la hâte, les marches sont irrégulières et dangereuses."
+10,2,"Un ordre presque maniaque règne dans cette salle, chaque objet semble à sa place."
+10,3,Tu essuies la sueur de ton front et repères une trappe à moitié dissimulée dans le sol.
+11,1,"Un silence de plomb règne dans cette cage d'escalier, seul ton souffle se fait entendre."
+11,2,Des flaques de sang séché dessinent un chemin macabre à travers la pièce.
+11,3,"Le combat t'a laissé exténué, mais tes yeux sont attirés par une inscription sur le mur."
+12,1,"Des racines noires ont percé la pierre de l'escalier, comme si quelque chose poussait depuis les profondeurs."
+12,2,Le silence ici est si dense qu'il en devient oppressant.
+12,3,Tu reprends tes esprits lorsqu'un léger courant d'air te fait remarquer une ouverture cachée.
+13,1,"L'escalier vibre légèrement sous tes pieds, un grondement sourd venu d'en bas."
+13,2,"Des restes calcinés jonchent le sol, l'odeur de brûlé persiste encore."
+13,3,"Haletant, tu aperçois une ombre qui disparaît furtivement derrière une colonne."
+14,1,"Des chaînes rouillées pendent le long du mur de l'escalier, on ignore à quoi elles servaient."
+14,2,"La pièce est étrangement froide, et pourtant aucune fenêtre ni courant d'air n'explique cette sensation."
+14,3,Tu te redresses péniblement et remarques que la pièce n'est peut-être pas aussi vide qu'il y paraît.
+15,1,"La chaleur augmente à chaque marche descendue, comme si tu approchais d'une fournaise."
+15,2,"Des corps entassés bloquent partiellement le passage, tu dois te frayer un chemin."
+15,3,"Encore secoué, tu distingues un reflet métallique qui capte la faible lumière ambiante."
+16,1,L'escalier est jonché de débris et d'ossements qu'il te faut enjamber.
+16,2,"Tout est net, poli, presque stérile — comme si quelqu'un avait tout nettoyé récemment."
+16,3,"Tu reprends ton souffle et sens un regard posé sur toi, sans pouvoir en identifier la source."
+17,1,"Une odeur âcre remonte des profondeurs, portée par un courant d'air glacé."
+17,2,Des chaînes brisées et des cages vides témoignent d'un passé que tu préfères ne pas imaginer.
+17,3,"Le combat terminé, tu remarques que le sol de cette pièce porte des traces étranges."
+18,1,"Les marches sont tachées d'un liquide sombre encore frais, quelqu'un — ou quelque chose — est passé récemment."
+18,2,Le calme de la pièce contraste violemment avec le chaos que tu devines derrière la porte suivante.
+18,3,"Épuisé mais alerte, tu perçois un murmure presque inaudible venant des profondeurs de la salle."
+19,1,"L'escalier semble ne jamais vouloir finir, chaque tournant révèle encore plus d'obscurité."
+19,2,Des cadavres empilés forment presque un mur au centre de la salle.
+19,3,"Tu titubes légèrement en entrant, et c'est là que tu aperçois une silhouette immobile au loin."
+20,1,"Un dernier escalier, plus large et plus solennel que les autres, mène vers une porte massive gravée de symboles inconnus."
+20,2,"La chambre du sommet est vaste et silencieuse, dominée par une présence que tu sens sans la voir."
+20,3,"À bout de forces après ce combat acharné, tu perçois enfin la présence du boss qui t'attend dans l'ombre."
+21,1,"Le boss est là et il fait peur !"
+21,2,"Bravo tu as fini le jeu"
